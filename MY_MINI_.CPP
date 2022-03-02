@@ -239,11 +239,9 @@ cout<<"TATA SUPER MARKET";
 gotoxy(33,12);
 cout<<"WELCOMEs YOU"  ;
 //gotoxy(35,14);
-//cout<<"BILLING";
-//gotoxy(35,17);
-//cout<<"PROJECT";
-//cout<<"\n\nMADE BY : ANUJ KUMAR";
-//cout<<"\n\nSCHOOL : RYAN INTERNATIONAL SCHOOL";
+cout<<"PROJECT";
+cout<<"\n\nMADE BY : SUDEEN SD999";
+cout<<"\n\nSCHOOL : V G VAZE COLLEGE OF ARTS, SCIENCE & COMMERCE (AUTONOMOUS), MULUND.";
 getch();
 }
 //***************************************************************
